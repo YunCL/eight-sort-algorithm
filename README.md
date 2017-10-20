@@ -1,7 +1,7 @@
 # eight-sort-algorithm
  总结
 各种排序的稳定性，时间复杂度、空间复杂度、稳定性总结如下图：
-![image](http://github.com/YunCL/eight-sort-algorithm/raw/master/compare.jpg)
+![image](https://github.com/YunCL/eight-sort-algorithm/blob/master/compare.jpg)
 
 
  
